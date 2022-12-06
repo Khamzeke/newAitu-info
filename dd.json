@@ -1,0 +1,35 @@
+{
+  "message_id": 992,
+  "from": {
+    "id": 347821020,
+    "is_bot": false,
+    "first_name": "Fropzz",
+    "username": "yeapit",
+    "language_code": "ru"
+  },
+  "chat": {
+    "id": -742528843,
+    "title": "Jj",
+    "type": "group",
+    "all_members_are_administrators": true
+  },
+  "date": 1659812485,
+  "new_chat_participant": {
+    "id": 2094729373,
+    "is_bot": false,
+    "first_name": "Tum",
+    "language_code": "en"
+  },
+  "new_chat_member": {
+    "id": 2094729373,
+    "is_bot": false,
+    "first_name": "Tum",
+    "language_code": "en"},
+  "new_chat_members": [
+    {
+      "id": 2094729373,
+      "is_bot": false,
+      "first_name": "Tum",
+      "language_code": "en"}
+  ]
+}
